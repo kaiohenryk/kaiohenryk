@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Caio Carvalho 👋
 
-- 💻 Analista de qualidade de software
-- 🧑‍🎓 Graduado em análise e desenvolvimento de sistemas
+- 💻 Analista de Testes e Qualidade de Software (QA)
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/kaiohenryk">
