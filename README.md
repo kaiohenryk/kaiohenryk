@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Caio Carvalho 👋
 
-- 💻 Atualmente trabalho como QA Analyst
-- 🧑‍🎓 Graduando em análise e desenvolvimento de sistemas
+- 💻 Analista de qualidade de software
+- 🧑‍🎓 Graduado em análise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/kaiohenryk">
