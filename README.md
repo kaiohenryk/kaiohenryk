@@ -2,6 +2,7 @@
 
 - 💻 Analista de Testes e Qualidade de Software (QA)
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎓 Pós-Graduado em Automação de Testes de Software
 
 <div align="left">
   <a href="https://github.com/kaiohenryk">
